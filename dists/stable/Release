@@ -1,0 +1,7 @@
+Origin: TermuxHub
+Label: TermuxHub
+Suite: stable
+Codename: stable
+Architectures: aarch64
+Components: main
+Description: Repositorio TermuxHub
